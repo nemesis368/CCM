@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CCM App</string>
+    <string name="nav_open">Abrir</string>
+    <string name="nav_close">Cerrar</string>
+    <string name="dental">Dental</string>
+    <string name="psicologia">Psicología</string>
+    <string name="general">Consulta General</string>
+    <string name="quiro">Quiropráctico</string>
+    <string name="podologia">Podología</string>
+    <string name="fisica">Terapia Física</string>
+    <string name="inicial">Educación Inicial</string>
+    <string name="computacion">Computación</string>
+    <string name="dibujo">Dibujo</string>
+    <string name="auxilios">Primeros Auxilios</string>
+</resources>

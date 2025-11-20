@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Salud">
+            <menu>
+                <item android:id="@+id/nav_dental" android:title="@string/dental" android:icon="@android:drawable/ic_menu_agenda"/>
+                <item android:id="@+id/nav_psicologia" android:title="@string/psicologia" android:icon="@android:drawable/ic_menu_agenda"/>
+                <item android:id="@+id/nav_general" android:title="@string/general" android:icon="@android:drawable/ic_menu_agenda"/>
+                <item android:id="@+id/nav_quiro" android:title="@string/quiro" android:icon="@android:drawable/ic_menu_agenda"/>
+                <item android:id="@+id/nav_podologia" android:title="@string/podologia" android:icon="@android:drawable/ic_menu_agenda"/>
+                <item android:id="@+id/nav_fisica" android:title="@string/fisica" android:icon="@android:drawable/ic_menu_agenda"/>
+            </menu>
+        </item>
+        <item android:title="Talleres">
+            <menu>
+                <item android:id="@+id/nav_inicial" android:title="@string/inicial" android:icon="@android:drawable/ic_menu_edit"/>
+                <item android:id="@+id/nav_computacion" android:title="@string/computacion" android:icon="@android:drawable/ic_menu_edit"/>
+                <item android:id="@+id/nav_dibujo" android:title="@string/dibujo" android:icon="@android:drawable/ic_menu_edit"/>
+                <item android:id="@+id/nav_auxilios" android:title="@string/auxilios" android:icon="@android:drawable/ic_menu_edit"/>
+            </menu>
+        </item>
+    </group>
+</menu>
